@@ -1,0 +1,6 @@
+/default.properties
+/assets
+.classpath
+.project
+.settings/
+bin/
